@@ -1,0 +1,8 @@
+Python is a high-level, interpreted programming language known for its simplicity and readability. It supports multiple programming paradigms including procedural, object-oriented, and functional programming.
+
+PyTorch is an open-source machine learning framework that provides a flexible platform for building and training neural networks. It offers dynamic computational graphs and excellent GPU acceleration support.
+
+Transformers are a type of neural network architecture that revolutionized natural language processing. They use attention mechanisms to process sequential data and have become the foundation for models like GPT, BERT, and T5.
+
+The attention mechanism allows neural networks to focus on different parts of the input sequence when processing each element. This enables better understanding of context and relationships in the data.
+
