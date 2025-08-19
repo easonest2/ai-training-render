@@ -7,7 +7,7 @@ python3 app.py &
 
 echo "Starting secondary bash script..."
 # Run another bash script in parallel
-run.sh &
+train.sh &
 
 # Wait for both background processes to finish
 wait
